@@ -1,0 +1,1 @@
+The user data will be automatically deleted after student graduation. Because it has no access to school id after graduation and he will not open this app. And we will delete the account right after graduation. 
