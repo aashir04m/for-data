@@ -1,0 +1,33 @@
+Privacy Policy
+Effective Date:
+
+Welcome to our Web Application ComeUnity.This privacy policy explains how we collect, use, share, and protect your personal information when you use our services.
+
+This Privacy Policy applies to all services offered by our Web Application. Please read it carefully. By using our services, you agree to the processing of your information in the manner set out in this Privacy Policy.
+
+1. Information We Collect
+We collect information to provide a better experience to all of our users. The type of information we collect depends on your interaction with our services. Here are the types of information we gather:
+
+Personal Information: When you create an account, you provide us with personal information that includes your name, email, university name, and other relevant details. If you decide to upgrade your account, we might also collect your payment information.
+Usage Information: We collect information about your interaction with our services, such as events you've attended, your feedback, and your preferences.
+Device and Log Information: We collect information about the device you use to access our services, including the hardware model, operating system, unique device identifiers, and mobile network information.
+Location Information: When you use our services, we may collect and process information about your location. We use various technologies to determine location, including IP address and GPS.
+2. How We Use Information
+The information we collect helps us provide, maintain, protect, and improve our services, as well as to develop new ones. We also use this information to offer tailored content, such as giving you more relevant event recommendations.
+
+3. Sharing Your Information
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
+
+4. Data Protection
+We implement a variety of security measures to maintain the safety of your personal information. We offer the use of a secure server and all supplied sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our database to be accessed only by authorized personnel.
+
+5. Your Rights
+You have the right to access and update your personal information at any time. You can also request us to delete your personal data. However, we may need to retain certain information for legal or administrative purposes, such as record keeping, maintaining fraud prevention measures, or user safety.
+
+6. Changes to This Policy
+We may periodically update our privacy policy. When we make significant changes, we'll notify you through the app or by email.
+
+7. Contact Us
+If you have any questions about this privacy policy, please contact us at Saadshafee2020@gmail.com.
+
+By using our services, you consent to our privacy policy.
